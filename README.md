@@ -4,6 +4,8 @@
 
 # graphcms-image
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fa232d77f2be45c580a216b08296c4d0)](https://app.codacy.com/app/Flybondi/graphcms-image?utm_source=github.com&utm_medium=referral&utm_content=flybondi/graphcms-image&utm_campaign=badger)
+
 Inpired by and based on [gatsby-image](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-image)
 
 **[Demo](https://graphcms-image.netlify.com/?down=0)**
